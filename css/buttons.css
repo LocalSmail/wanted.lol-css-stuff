@@ -1,0 +1,14 @@
+/*
+
+Capitalization and stuff
+
+*/
+
+.presence-wrapper.svelte-bnj154 .presence .presence__info .presence__info__status.svelte-bnj154 {
+    font-size: 1rem;
+    margin: 0;
+    font-size: smaller;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+}
